@@ -33,7 +33,7 @@ function Landingpage() {
                     target="_blank"
                     href="https://github.com/pradeepadlakondawar"
                   >
-                      <span className='hover:text-gray-700 transition-colors duration-300'>
+                      <span className='hover:text-blue-600 transition-colors duration-300'>
         <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-brand-github"><path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path></svg>
         </span>
                     </a>
@@ -47,11 +47,11 @@ function Landingpage() {
       <div>
         <div className="Tech-stack text-xl sm:text-2xl lg:text-3xl flex flex-col sm:flex-row gap-2 sm:gap-4 lg:gap-8 justify-center items-center mt-8 sm:mt-12 lg:mt-16">
         <h2 className='mt-2'>Tech Stack |</h2>
-        <img src={HTML} alt="Skillicon-html" className='w-6 sm:w-8 lg:w-12 hover:-translate-y-1 transition-transform duration-300 ease-in-out' />
-        <img src={CSS} alt="Skillicon-css" className='w-6 sm:w-8 lg:w-12 hover:-translate-y-1 transition-transform duration-300 ease-in-out' />
-        <img src={JS} alt="Skillicon-JS" className='w-6 sm:w-8 lg:w-12 hover:-translate-y-1 transition-transform duration-300 ease-in-out' />
-        <img src={React} alt="Skillicon-react" className='w-6 sm:w-8 lg:w-12 hover:-translate-y-1 transition-transform duration-300 ease-in-out' />
-        <img src={Tailwind} alt="Skillicon-Tailwind" className='w-6 sm:w-8 lg:w-12 hover:-translate-y-1 transition-transform duration-300 ease-in-out' />
+        <img src={HTML} alt="Skillicon-html" className='w-8 sm:w-8 lg:w-12 hover:-translate-y-3 transition-transform duration-300 ease-in-out' />
+        <img src={CSS} alt="Skillicon-css" className='w-8 sm:w-8 lg:w-12 hover:-translate-y-3 transition-transform duration-300 ease-in-out' />
+        <img src={JS} alt="Skillicon-JS" className='w-8 sm:w-8 lg:w-12 hover:-translate-y-3 transition-transform duration-300 ease-in-out' />
+        <img src={React} alt="Skillicon-react" className='w-8 sm:w-8 lg:w-12 hover:-translate-y-3 transition-transform duration-300 ease-in-out' />
+        <img src={Tailwind} alt="Skillicon-Tailwind" className='w-8 sm:w-8 lg:w-12 hover:-translate-y-3 transition-transform duration-300 ease-in-out' />
         <span>
             
         </span>
